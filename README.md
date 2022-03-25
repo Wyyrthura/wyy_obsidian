@@ -11,6 +11,7 @@ Go in Obsidian, then Settings > Appearance > Themes > Open Themes Folder
 then copy wyy_manjaro to this folder, restart Obsidian, and enjoy !
 
 # Update
+Fixed some bug from the original theme
 
 # Todo list
 Change citation border color
