@@ -1,5 +1,6 @@
 # wyy_obsidian
 Manjaro Theme for Obsidian
+
 This theme also fix some bug from the original theme, Obsidianite, such as the big gray block in editing mode and some other error in the code
 
 # Preview
