@@ -1137,7 +1137,7 @@ blockquote {
   border-bottom-right-radius: 5px;
   margin-bottom: 2em;
   margin-right: 0 !important;
-  border-left: 3px rgba(14, 210, 247, 0.5) solid;
+  border-left: 3px rgba(158, 247, 14, 0.8) solid;
   border-top: transparent;
   border-bottom: transparent;
   border-right: transparent;
@@ -1151,7 +1151,7 @@ blockquote {
   left: 0px;
   height: 2px;
   width: 60%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #13111a);
+  background: linear-gradient(90deg, rgba(158, 247, 14, 0.8), #13111a);
 }
 
 .markdown-preview-view blockquote::after {
@@ -1161,7 +1161,7 @@ blockquote {
   left: 0px;
   height: 2px;
   width: 25%;
-  background: linear-gradient(90deg, rgba(13, 185, 215, 0.5), #15131c);
+  background: linear-gradient(90deg, rgba(158, 247, 14, 0.8), #15131c);
 }
 
 .markdown-preview-view blockquote p {
